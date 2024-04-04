@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javaproject.springboot.SpringbootFirstAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.858 s -- in com.javaproject.springboot.SpringbootFirstAppApplicationTests
